@@ -1,0 +1,9 @@
+{
+  "name": "yarn-berry-resolve",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "resolve": "^1.15.0"
+  }
+}
